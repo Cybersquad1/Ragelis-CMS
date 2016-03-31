@@ -3,9 +3,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
-using System.IO;
 using System.IO.Ports;
-using System.Xml;
 
 namespace Ragelis
 {
