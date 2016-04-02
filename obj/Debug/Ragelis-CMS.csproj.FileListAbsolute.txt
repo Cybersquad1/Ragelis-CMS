@@ -1,0 +1,13 @@
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\bin\Debug\Ragelis-CMS.exe.config
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.exe
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.pdb
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\bin\Debug\Ragelis-CMS.exe.manifest
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\bin\Debug\Ragelis-CMS.application
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\bin\Debug\Ragelis-CMS.exe
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\bin\Debug\Ragelis-CMS.pdb
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.csprojResolveAssemblyReference.cache
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis.RagelisCMS.resources
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\RagelisCMS.Properties.Resources.resources
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.csproj.GenerateResource.Cache
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.exe.manifest
+C:\Users\IGaluskinas\Documents\Visual Studio 2013\Projects\Ragelis-CMS\obj\Debug\Ragelis-CMS.application
